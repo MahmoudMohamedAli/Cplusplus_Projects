@@ -28,11 +28,12 @@ A simple console-based Bank Management System written in C++. This project allow
 **🧑‍💻 Using a C++ Compiler**
 1. Clone the repo
 ```bash
-git clone 
+git clone https://github.com/MahmoudMohamedAli/Cplusplus_Projects/tree/main/BankManagementSystem
+cd BankManagementSystem
 ```
 2. Compile the code:
 ```bash
-g++ main.cpp Account.cpp -o bank-system
+g++ src.cpp Account.cpp -o bank-system
 ```
 3. Run the programm
 ```bash
