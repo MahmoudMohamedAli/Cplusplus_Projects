@@ -11,3 +11,6 @@
 
 ## Bank Management System.
 [Bank Management System](BankManagementSystem/src.cpp)
+
+## Hotel Management System.
+[Hotel Management System](HotelManagementSystem/Src.cpp)
