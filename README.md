@@ -15,7 +15,7 @@
 ## Hotel Management System.
 [Hotel Management System](HotelManagementSystem/Src.cpp)
 
-## Costum String Class
+## Custom String Class
 [Hotel Management System](Custom_String_class/src/StringCustom.cpp)
 
 ## Operator Overloading class
