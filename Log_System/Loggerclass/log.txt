@@ -1,0 +1,33 @@
+Mon Aug  4 12:10:10 2025	[Info]	Hello User on line 16 in test.cpp
+Mon Aug  4 12:10:10 2025	[Critical]	OH NO! on line 18 in test.cpp
+Mon Aug  4 12:10:10 2025	[Warn]	Hello 15 28 on line 20 in test.cpp
+Mon Aug  4 12:10:47 2025	[Critical]	OH NO! on line 18 in test.cpp
+Mon Aug  4 12:10:47 2025	[Warn]	Hello 15 28 on line 20 in test.cpp
+Mon Aug  4 12:30:12 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 12:30:12 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
+Mon Aug  4 12:41:24 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 12:41:24 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
+Mon Aug  4 12:47:08 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 12:47:08 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
+Mon Aug  4 12:48:17 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 12:48:17 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
+Mon Aug  4 12:50:39 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 12:50:39 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
+Mon Aug  4 12:51:49 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 12:51:49 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
+Mon Aug  4 12:52:15 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 12:52:15 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
+Mon Aug  4 12:53:00 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 12:53:00 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
+Mon Aug  4 12:53:43 2025	[Trace]	Hello World on line 13 in test.cpp
+Mon Aug  4 12:53:43 2025	[Info]	Hello User on line 15 in test.cpp
+Mon Aug  4 12:53:43 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 12:53:43 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
+Mon Aug  4 14:41:42 2025	[Trace]	Hello World on line 13 in test.cpp
+Mon Aug  4 14:41:42 2025	[Info]	Hello User on line 15 in test.cpp
+Mon Aug  4 14:41:42 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 14:41:42 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
+Mon Aug  4 14:41:56 2025	[Trace]	Hello World on line 13 in test.cpp
+Mon Aug  4 14:41:56 2025	[Info]	Hello User on line 15 in test.cpp
+Mon Aug  4 14:41:56 2025	[Critical]	OH NO! on line 17 in test.cpp
+Mon Aug  4 14:41:56 2025	[Warn]	Hello 15 28 on line 19 in test.cpp
