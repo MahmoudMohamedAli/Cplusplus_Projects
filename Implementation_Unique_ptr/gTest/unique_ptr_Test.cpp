@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "Unique_Ptr.hpp" //include Unique_ptr.hpp"
+#include "Unique_Ptr.hpp" 
 
 TEST(TEST_SUIT1, TESTCASE1)
 {
@@ -14,11 +14,6 @@ TEST(TEST_SUIT1, TESTCASE1)
 
     Implementation_Unique_ptr::unique_ptr<int> up4(std::move(up3));
     EXPECT_EQ(*up4, 6);
-
-    // // Test derived class functionality
-    // Implementation_Unique_ptr::unique_ptr<Implementation_Unique_ptr::Base> base1(new Implementation_Unique_ptr::Derived1);
-    // EXPECT_NO_THROW(base1->action());
-
-    // Implementation_Unique_ptr::unique_ptr<Implementation_Unique_ptr::Base> base2(new Implementation_Unique_ptr::Derived2);
-    // EXPECT_NO_THROW(base2->action());
 }
+
+// add more test cases for derived classes in future ISA :)
